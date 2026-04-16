@@ -107,5 +107,5 @@ notebook/analysis.ipynb
 
 ## Author
 
-**Serve heidari**
+**Serve Heidari**
 
